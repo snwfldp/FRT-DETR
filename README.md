@@ -1,4 +1,4 @@
-English | [简体中文](README_cn.md)
+English |
 
 
 <h2 align="center">RT-DETR: DETRs Beat YOLOs on Real-time Object Detection</h2>
